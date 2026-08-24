@@ -1,2 +1,0 @@
-# lukki
-lukki site
